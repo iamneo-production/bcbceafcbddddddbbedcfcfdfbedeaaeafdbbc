@@ -1,0 +1,23 @@
+.input-container{
+    background: #7E354D;
+    width: auto;
+    padding: 50px;
+    margin: 5px;
+}
+
+h3{
+    color: white;
+}
+
+p{
+    background-color: rgb(238, 169, 65);
+    border: 2px;
+    margin: 2px;
+    width : 110px;
+    padding: 10px;
+    display: inline;
+    cursor: -webkit-grab; 
+    cursor: grab;
+    margin: 2px;
+}
+
