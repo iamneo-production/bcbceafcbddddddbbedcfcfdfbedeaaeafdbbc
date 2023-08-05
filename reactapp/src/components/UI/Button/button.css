@@ -1,0 +1,30 @@
+.buttonContainer {
+    text-align: center;
+    margin: auto;
+  }
+  
+  .buttonOption {
+    text-align: left;
+    color: black;
+    font-weight: bold;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 15px;
+    background-color: rgb(255, 186, 127);
+    border-radius: 5px;
+  }
+  
+  .buttonQ1 {
+    text-align: left;
+    color: black;
+    font-weight: bold;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 15px;
+    background-color: rgb(255, 186, 127);
+    border-radius: 5px;
+  }
